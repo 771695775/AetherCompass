@@ -19,8 +19,8 @@
     "AssemblyVersion": "1.6.4.0",
     "IsTestingExclusive": "False",
     "Changelog": "Adaptation version 7.0，适配7.0",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/771695775/AetherCompass/refs/heads/main/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/771695775/AetherCompass/refs/heads/main/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/771695775/FFXIVAetherCompass/refs/heads/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/771695775/FFXIVAetherCompass/refs/heads/main/latest.zip",
     "LastUpdate": "1700053462"
   }
 ]
